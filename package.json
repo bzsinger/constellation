@@ -1,0 +1,15 @@
+{
+  "name": "constellation",
+  "version": "1.0.0",
+  "description": "A tool to turn your Github stars into a Markdown document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "github-api": "^3.0.0",
+    "got": "^7.0.0"
+  }
+}

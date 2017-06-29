@@ -1,4 +1,4 @@
-# Stars 
+# [Constellation](https://github.com/bzsinger/constellation) 
 ## <em>A list of repos I've starred</em>
 <strong>acuminous/yadda</strong> [![GitHub stars](https://img.shields.io/github/stars/acuminous/yadda.svg?style=social&label=Star)](https://github.com/acuminous/yadda)
 
@@ -10,9 +10,24 @@ A BDD javascript library
 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
 
+ </br><strong>AdiChat/Repository-Hunter</strong> [![GitHub stars](https://img.shields.io/github/stars/AdiChat/Repository-Hunter.svg?style=social&label=Star)](https://github.com/AdiChat/Repository-Hunter)
+
+:rose: Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...
+
+
  </br><strong>adobe/brackets</strong> [![GitHub stars](https://img.shields.io/github/stars/adobe/brackets.svg?style=social&label=Star)](https://github.com/adobe/brackets)
 
 An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+
+ </br><strong>ageitgey/face_recognition</strong> [![GitHub stars](https://img.shields.io/github/stars/ageitgey/face_recognition.svg?style=social&label=Star)](https://github.com/ageitgey/face_recognition)
+
+The world's simplest facial recognition api for Python and the command line
+
+
+ </br><strong>agilebits/onepassword-app-extension</strong> [![GitHub stars](https://img.shields.io/github/stars/agilebits/onepassword-app-extension.svg?style=social&label=Star)](https://github.com/agilebits/onepassword-app-extension)
+
+1Password Extension for iOS Apps
 
 
  </br><strong>airbnb/javascript</strong> [![GitHub stars](https://img.shields.io/github/stars/airbnb/javascript.svg?style=social&label=Star)](https://github.com/airbnb/javascript)
@@ -25,9 +40,19 @@ JavaScript Style Guide
 YouTube Realtime Subscriber Count
 
 
+ </br><strong>alex/what-happens-when</strong> [![GitHub stars](https://img.shields.io/github/stars/alex/what-happens-when.svg?style=social&label=Star)](https://github.com/alex/what-happens-when)
+
+An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+
  </br><strong>alexa/alexa-skills-kit-sdk-for-nodejs</strong> [![GitHub stars](https://img.shields.io/github/stars/alexa/alexa-skills-kit-sdk-for-nodejs.svg?style=social&label=Star)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)
 
 The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
+
+
+ </br><strong>alexblack/google-fastbutton</strong> [![GitHub stars](https://img.shields.io/github/stars/alexblack/google-fastbutton.svg?style=social&label=Star)](https://github.com/alexblack/google-fastbutton)
+
+Implementation of Google's FastButton javascript and jQuery and XUI.js integration
 
 
  </br><strong>alexpate/awesome-design-systems</strong> [![GitHub stars](https://img.shields.io/github/stars/alexpate/awesome-design-systems.svg?style=social&label=Star)](https://github.com/alexpate/awesome-design-systems)
@@ -38,6 +63,11 @@ The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickl
  </br><strong>andreamazz/UITextField-Shake</strong> [![GitHub stars](https://img.shields.io/github/stars/andreamazz/UITextField-Shake.svg?style=social&label=Star)](https://github.com/andreamazz/UITextField-Shake)
 
 UITextField category that adds shake animation
+
+
+ </br><strong>apache/hadoop</strong> [![GitHub stars](https://img.shields.io/github/stars/apache/hadoop.svg?style=social&label=Star)](https://github.com/apache/hadoop)
+
+Mirror of Apache Hadoop
 
 
  </br><strong>apache/kafka</strong> [![GitHub stars](https://img.shields.io/github/stars/apache/kafka.svg?style=social&label=Star)](https://github.com/apache/kafka)
@@ -55,9 +85,24 @@ The Swift Programming Language
 Scriptable Headless WebKit
 
 
+ </br><strong>artemnovichkov/iOS-11-by-Examples</strong> [![GitHub stars](https://img.shields.io/github/stars/artemnovichkov/iOS-11-by-Examples.svg?style=social&label=Star)](https://github.com/artemnovichkov/iOS-11-by-Examples)
+
+Examples of new iOS 11 APIs
+
+
+ </br><strong>astorfi/TensorFlow-World</strong> [![GitHub stars](https://img.shields.io/github/stars/astorfi/TensorFlow-World.svg?style=social&label=Star)](https://github.com/astorfi/TensorFlow-World)
+
+:earth_americas: Simple and ready-to-use tutorials for TensorFlow
+
+
  </br><strong>atom/atom</strong> [![GitHub stars](https://img.shields.io/github/stars/atom/atom.svg?style=social&label=Star)](https://github.com/atom/atom)
 
 :atom: The hackable text editor
+
+
+ </br><strong>atomic14/VisionCoreMLSample</strong> [![GitHub stars](https://img.shields.io/github/stars/atomic14/VisionCoreMLSample.svg?style=social&label=Star)](https://github.com/atomic14/VisionCoreMLSample)
+
+Sample application using Vision Framework and Core ML
 
 
  </br><strong>avajs/ava</strong> [![GitHub stars](https://img.shields.io/github/stars/avajs/ava.svg?style=social&label=Star)](https://github.com/avajs/ava)
@@ -78,6 +123,11 @@ Shields badge specification, website and default API server
  </br><strong>bakkenbaeck/iOS-handbook</strong> [![GitHub stars](https://img.shields.io/github/stars/bakkenbaeck/iOS-handbook.svg?style=social&label=Star)](https://github.com/bakkenbaeck/iOS-handbook)
 
 Guidelines and best practices for excellent iOS apps
+
+
+ </br><strong>BalestraPatrick/HapticButton</strong> [![GitHub stars](https://img.shields.io/github/stars/BalestraPatrick/HapticButton.svg?style=social&label=Star)](https://github.com/BalestraPatrick/HapticButton)
+
+A button that is triggered based on the 3D Touch pressure, similar to the iOS 11 control center.
 
 
  </br><strong>baseballhackday/data-and-resources</strong> [![GitHub stars](https://img.shields.io/github/stars/baseballhackday/data-and-resources.svg?style=social&label=Star)](https://github.com/baseballhackday/data-and-resources)
@@ -143,6 +193,11 @@ A simple, decentralized dependency manager for Cocoa
 Navigation scripting and testing utility for PhantomJS and SlimerJS
 
 
+ </br><strong>ccgus/fmdb</strong> [![GitHub stars](https://img.shields.io/github/stars/ccgus/fmdb.svg?style=social&label=Star)](https://github.com/ccgus/fmdb)
+
+A Cocoa / Objective-C wrapper around SQLite
+
+
  </br><strong>chaijs/chai</strong> [![GitHub stars](https://img.shields.io/github/stars/chaijs/chai.svg?style=social&label=Star)](https://github.com/chaijs/chai)
 
 BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
@@ -163,6 +218,16 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 Open-source project behind Google Chrome
 
 
+ </br><strong>cirosantilli/algorithm-cheat</strong> [![GitHub stars](https://img.shields.io/github/stars/cirosantilli/algorithm-cheat.svg?style=social&label=Star)](https://github.com/cirosantilli/algorithm-cheat)
+
+Algorithm tutorials and simple implementations with unit tests. Usually updated when I'm grinding for job interviews :-)
+
+
+ </br><strong>cirosantilli/x86-bare-metal-examples</strong> [![GitHub stars](https://img.shields.io/github/stars/cirosantilli/x86-bare-metal-examples.svg?style=social&label=Star)](https://github.com/cirosantilli/x86-bare-metal-examples)
+
+Dozens of minimal operating systems to learn x86 system programming. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat Keywords: hello world, bare bones, boot sector, MBR, BIOS, UEFI, VGA, GRUB, Multiboot, QEMU.
+
+
  </br><strong>cjwirth/awesome-ios-ui</strong> [![GitHub stars](https://img.shields.io/github/stars/cjwirth/awesome-ios-ui.svg?style=social&label=Star)](https://github.com/cjwirth/awesome-ios-ui)
 
 A curated list of awesome iOS UI/UX libraries
@@ -170,7 +235,7 @@ A curated list of awesome iOS UI/UX libraries
 
  </br><strong>Codeception/CodeceptJS</strong> [![GitHub stars](https://img.shields.io/github/stars/Codeception/CodeceptJS.svg?style=social&label=Star)](https://github.com/Codeception/CodeceptJS)
 
-Modern Era Aceptance Testing Framework for NodeJS
+Modern Era Acceptance Testing Framework for NodeJS
 
 
  </br><strong>codepath/ios_guides</strong> [![GitHub stars](https://img.shields.io/github/stars/codepath/ios_guides.svg?style=social&label=Star)](https://github.com/codepath/ios_guides)
@@ -208,6 +273,11 @@ String replace for your jQueries!
 Node Version Manager - Simple bash script to manage multiple active node.js versions
 
 
+ </br><strong>css-modules/css-modules</strong> [![GitHub stars](https://img.shields.io/github/stars/css-modules/css-modules.svg?style=social&label=Star)](https://github.com/css-modules/css-modules)
+
+Documentation about css-modules
+
+
  </br><strong>cuappdev/podcast-ios</strong> [![GitHub stars](https://img.shields.io/github/stars/cuappdev/podcast-ios.svg?style=social&label=Star)](https://github.com/cuappdev/podcast-ios)
 
 An open-source iOS app for listening to podcasts.
@@ -223,14 +293,39 @@ Cucumber parent project - keeping all implementations in sync
 Cucumber for JavaScript
 
 
+ </br><strong>cucumber/gherkin</strong> [![GitHub stars](https://img.shields.io/github/stars/cucumber/gherkin.svg?style=social&label=Star)](https://github.com/cucumber/gherkin)
+
+Cross platform parser for the Gherkin language. Used by Cucumber to parse .feature files.
+
+
  </br><strong>cypress-io/cypress</strong> [![GitHub stars](https://img.shields.io/github/stars/cypress-io/cypress.svg?style=social&label=Star)](https://github.com/cypress-io/cypress)
 
 Cypress is a test engine that runs unit and integration tests in your browser.
 
 
+ </br><strong>dabbott/react-express</strong> [![GitHub stars](https://img.shields.io/github/stars/dabbott/react-express.svg?style=social&label=Star)](https://github.com/dabbott/react-express)
+
+The all-in-one beginner's guide to modern React application development!
+
+
+ </br><strong>davidguttman/power-slides</strong> [![GitHub stars](https://img.shields.io/github/stars/davidguttman/power-slides.svg?style=social&label=Star)](https://github.com/davidguttman/power-slides)
+
+Create powerful slideshows for talks and presentations. Each "slide" is a JS function that can do *anything*.
+
+
  </br><strong>davidshimjs/qrcodejs</strong> [![GitHub stars](https://img.shields.io/github/stars/davidshimjs/qrcodejs.svg?style=social&label=Star)](https://github.com/davidshimjs/qrcodejs)
 
 Cross-browser QRCode generator for javascript
+
+
+ </br><strong>decaffeinate/decaffeinate</strong> [![GitHub stars](https://img.shields.io/github/stars/decaffeinate/decaffeinate.svg?style=social&label=Star)](https://github.com/decaffeinate/decaffeinate)
+
+Goodbye CoffeeScript, hello JavaScript!
+
+
+ </br><strong>dennybritz/reinforcement-learning</strong> [![GitHub stars](https://img.shields.io/github/stars/dennybritz/reinforcement-learning.svg?style=social&label=Star)](https://github.com/dennybritz/reinforcement-learning)
+
+Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 
 
  </br><strong>detailyang/awesome-cheatsheet</strong> [![GitHub stars](https://img.shields.io/github/stars/detailyang/awesome-cheatsheet.svg?style=social&label=Star)](https://github.com/detailyang/awesome-cheatsheet)
@@ -303,6 +398,11 @@ Presented by Eric Steinborn for the New York State Forum at "GitHub for Cats!"
 Official Go implementation of the Ethereum protocol
 
 
+ </br><strong>evolus/pencil</strong> [![GitHub stars](https://img.shields.io/github/stars/evolus/pencil.svg?style=social&label=Star)](https://github.com/evolus/pencil)
+
+The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
+
+
  </br><strong>expressjs/cors</strong> [![GitHub stars](https://img.shields.io/github/stars/expressjs/cors.svg?style=social&label=Star)](https://github.com/expressjs/cors)
 
 Node.js CORS middleware
@@ -316,6 +416,11 @@ Fast, unopinionated, minimalist web framework for node.
  </br><strong>facebook/jest</strong> [![GitHub stars](https://img.shields.io/github/stars/facebook/jest.svg?style=social&label=Star)](https://github.com/facebook/jest)
 
 🃏 Delightful JavaScript Testing.
+
+
+ </br><strong>facebook/KVOController</strong> [![GitHub stars](https://img.shields.io/github/stars/facebook/KVOController.svg?style=social&label=Star)](https://github.com/facebook/KVOController)
+
+Simple, modern, thread-safe key-value observing for iOS and OS X.
 
 
  </br><strong>facebook/react</strong> [![GitHub stars](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star)](https://github.com/facebook/react)
@@ -408,6 +513,11 @@ The Go programming language
 Font files available from Google Fonts
 
 
+ </br><strong>google/web-starter-kit</strong> [![GitHub stars](https://img.shields.io/github/stars/google/web-starter-kit.svg?style=social&label=Star)](https://github.com/google/web-starter-kit)
+
+Web Starter Kit - a workflow for multi-device websites
+
+
  </br><strong>googlecartographer/cartographer</strong> [![GitHub stars](https://img.shields.io/github/stars/googlecartographer/cartographer.svg?style=social&label=Star)](https://github.com/googlecartographer/cartographer)
 
 Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -424,6 +534,11 @@ Cartographer is a system that provides real-time simultaneous localization and m
  </br><strong>gravitational/workshop</strong> [![GitHub stars](https://img.shields.io/github/stars/gravitational/workshop.svg?style=social&label=Star)](https://github.com/gravitational/workshop)
 
 Docker and Kubernetes Training by Gravitational
+
+
+ </br><strong>gskinner/regexr</strong> [![GitHub stars](https://img.shields.io/github/stars/gskinner/regexr.svg?style=social&label=Star)](https://github.com/gskinner/regexr)
+
+RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 
 
  </br><strong>hacksalot/HackMyResume</strong> [![GitHub stars](https://img.shields.io/github/stars/hacksalot/HackMyResume.svg?style=social&label=Star)](https://github.com/hacksalot/HackMyResume)
@@ -449,9 +564,19 @@ my foray into the world of competitive programming
 🍺 The missing package manager for macOS
 
 
+ </br><strong>HospitalRun/hospitalrun-frontend</strong> [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend.svg?style=social&label=Star)](https://github.com/HospitalRun/hospitalrun-frontend)
+
+Ember front end for HospitalRun
+
+
  </br><strong>hsavit1/Awesome-Swift-Education</strong> [![GitHub stars](https://img.shields.io/github/stars/hsavit1/Awesome-Swift-Education.svg?style=social&label=Star)](https://github.com/hsavit1/Awesome-Swift-Education)
 
 :fire: Learn some fucking Swift
+
+
+ </br><strong>hubotio/hubot</strong> [![GitHub stars](https://img.shields.io/github/stars/hubotio/hubot.svg?style=social&label=Star)](https://github.com/hubotio/hubot)
+
+A customizable life embetterment robot.
 
 
  </br><strong>hyperoslo/BarcodeScanner</strong> [![GitHub stars](https://img.shields.io/github/stars/hyperoslo/BarcodeScanner.svg?style=social&label=Star)](https://github.com/hyperoslo/BarcodeScanner)
@@ -484,6 +609,11 @@ A pure NodeJS BDD testing framework based on quangv's mocha-cakes project
 400 software engineering companies that are easy to apply to
 
 
+ </br><strong>jakubgarfield/expenses</strong> [![GitHub stars](https://img.shields.io/github/stars/jakubgarfield/expenses.svg?style=social&label=Star)](https://github.com/jakubgarfield/expenses)
+
+💰Expense tracker using Google Sheets 📉 as a storage written in React
+
+
  </br><strong>jasmine/jasmine</strong> [![GitHub stars](https://img.shields.io/github/stars/jasmine/jasmine.svg?style=social&label=Star)](https://github.com/jasmine/jasmine)
 
 Simple JavaScript testing framework for browsers and node.js
@@ -497,6 +627,16 @@ Simple JavaScript testing framework for browsers and node.js
  </br><strong>jlord/git-it-electron</strong> [![GitHub stars](https://img.shields.io/github/stars/jlord/git-it-electron.svg?style=social&label=Star)](https://github.com/jlord/git-it-electron)
 
 :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+
+
+ </br><strong>jmoenig/Snap--Build-Your-Own-Blocks</strong> [![GitHub stars](https://img.shields.io/github/stars/jmoenig/Snap--Build-Your-Own-Blocks.svg?style=social&label=Star)](https://github.com/jmoenig/Snap--Build-Your-Own-Blocks)
+
+a visual programming language inspired by Scratch
+
+
+ </br><strong>josephmisiti/awesome-machine-learning</strong> [![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg?style=social&label=Star)](https://github.com/josephmisiti/awesome-machine-learning)
+
+A curated list of awesome Machine Learning frameworks, libraries and software.
 
 
  </br><strong>jquery/jquery</strong> [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery.svg?style=social&label=Star)](https://github.com/jquery/jquery)
@@ -546,7 +686,7 @@ Chrome extension - Get your old twitter UI back
 
  </br><strong>kendricktan/iffse</strong> [![GitHub stars](https://img.shields.io/github/stars/kendricktan/iffse.svg?style=social&label=Star)](https://github.com/kendricktan/iffse)
 
-Instagram Facial Feature Search Engine
+Facial Feature Search Engine for Some Photo Sharing Website
 
 
  </br><strong>kevva/wifi-password</strong> [![GitHub stars](https://img.shields.io/github/stars/kevva/wifi-password.svg?style=social&label=Star)](https://github.com/kevva/wifi-password)
@@ -557,6 +697,11 @@ Get current wifi password
  </br><strong>kevva/wifi-password-cli</strong> [![GitHub stars](https://img.shields.io/github/stars/kevva/wifi-password-cli.svg?style=social&label=Star)](https://github.com/kevva/wifi-password-cli)
 
 Get current wifi password
+
+
+ </br><strong>kitcambridge/evil.js</strong> [![GitHub stars](https://img.shields.io/github/stars/kitcambridge/evil.js.svg?style=social&label=Star)](https://github.com/kitcambridge/evil.js)
+
+A JavaScript library for thwarting hotlinkers.
 
 
  </br><strong>kohsuke/github-api</strong> [![GitHub stars](https://img.shields.io/github/stars/kohsuke/github-api.svg?style=social&label=Star)](https://github.com/kohsuke/github-api)
@@ -584,6 +729,21 @@ Play Google Pacman
 generate massive amounts of fake data in Node.js and the browser
 
 
+ </br><strong>marcoarment/CompactConstraint</strong> [![GitHub stars](https://img.shields.io/github/stars/marcoarment/CompactConstraint.svg?style=social&label=Star)](https://github.com/marcoarment/CompactConstraint)
+
+Simple NSLayoutConstraint expression parser for more readable autolayout code.
+
+
+ </br><strong>marcoarment/FCModel</strong> [![GitHub stars](https://img.shields.io/github/stars/marcoarment/FCModel.svg?style=social&label=Star)](https://github.com/marcoarment/FCModel)
+
+An alternative to Core Data for people who like having direct SQL access.
+
+
+ </br><strong>marcoarment/FCUtilities</strong> [![GitHub stars](https://img.shields.io/github/stars/marcoarment/FCUtilities.svg?style=social&label=Star)](https://github.com/marcoarment/FCUtilities)
+
+Common iOS utilities that I've needed for my apps. Hopefully some are useful for yours.
+
+
  </br><strong>matej/MBProgressHUD</strong> [![GitHub stars](https://img.shields.io/github/stars/matej/MBProgressHUD.svg?style=social&label=Star)](https://github.com/matej/MBProgressHUD)
 
 MBProgressHUD, an iOS activity indicator view
@@ -597,6 +757,11 @@ A free and unlimited API for Google Translate :dollar::no_entry_sign:
  </br><strong>mathiasbynens/evil.sh</strong> [![GitHub stars](https://img.shields.io/github/stars/mathiasbynens/evil.sh.svg?style=social&label=Star)](https://github.com/mathiasbynens/evil.sh)
 
 :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
+
+
+ </br><strong>mathisonian/awesome-visualization-research</strong> [![GitHub stars](https://img.shields.io/github/stars/mathisonian/awesome-visualization-research.svg?style=social&label=Star)](https://github.com/mathisonian/awesome-visualization-research)
+
+A list of recommended research papers and other readings on data visualization
 
 
  </br><strong>maxogden/art-of-node</strong> [![GitHub stars](https://img.shields.io/github/stars/maxogden/art-of-node.svg?style=social&label=Star)](https://github.com/maxogden/art-of-node)
@@ -639,6 +804,11 @@ A little tool to generate Mocha BDD specs from Gherkin features
 ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
 
+ </br><strong>moment/moment</strong> [![GitHub stars](https://img.shields.io/github/stars/moment/moment.svg?style=social&label=Star)](https://github.com/moment/moment)
+
+Parse, validate, manipulate, and display dates in javascript.
+
+
  </br><strong>monicahq/monica</strong> [![GitHub stars](https://img.shields.io/github/stars/monicahq/monica.svg?style=social&label=Star)](https://github.com/monicahq/monica)
 
 Personal Relationship Manager - a new kind of CRM to organize interactions with your friends and family.
@@ -660,6 +830,11 @@ FRI Project to classify actions based on demonstration from a person
  </br><strong>mtoyoda/sl</strong> [![GitHub stars](https://img.shields.io/github/stars/mtoyoda/sl.svg?style=social&label=Star)](https://github.com/mtoyoda/sl)
 
 SL(1): Cure your bad habit of mistyping
+
+
+ </br><strong>Naituw/CoreMLDemo</strong> [![GitHub stars](https://img.shields.io/github/stars/Naituw/CoreMLDemo.svg?style=social&label=Star)](https://github.com/Naituw/CoreMLDemo)
+
+Demo for CoreML & Vision Framework
 
 
  </br><strong>NARKOZ/guides</strong> [![GitHub stars](https://img.shields.io/github/stars/NARKOZ/guides.svg?style=social&label=Star)](https://github.com/NARKOZ/guides)
@@ -737,6 +912,11 @@ a package manager for javascript
 📙 Amazon Web Services — a practical guide
 
 
+ </br><strong>opencv/opencv</strong> [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv.svg?style=social&label=Star)](https://github.com/opencv/opencv)
+
+Open Source Computer Vision Library
+
+
  </br><strong>OSMBuildings/OSMBuildings</strong> [![GitHub stars](https://img.shields.io/github/stars/OSMBuildings/OSMBuildings.svg?style=social&label=Star)](https://github.com/OSMBuildings/OSMBuildings)
 
 OpenStreetMap building geometry on 2D and 3D maps
@@ -750,6 +930,11 @@ Highly customizable Action Sheet Controller with Assets Preview written in Swift
  </br><strong>parse-community/parse-server</strong> [![GitHub stars](https://img.shields.io/github/stars/parse-community/parse-server.svg?style=social&label=Star)](https://github.com/parse-community/parse-server)
 
 Parse-compatible API server module for Node/Express
+
+
+ </br><strong>pat310/google-trends-api</strong> [![GitHub stars](https://img.shields.io/github/stars/pat310/google-trends-api.svg?style=social&label=Star)](https://github.com/pat310/google-trends-api)
+
+An API layer on top of google trends
 
 
  </br><strong>pato/awesome-config</strong> [![GitHub stars](https://img.shields.io/github/stars/pato/awesome-config.svg?style=social&label=Star)](https://github.com/pato/awesome-config)
@@ -820,6 +1005,11 @@ Pony is an open-source, actor-model, capabilities-secure, high performance progr
  </br><strong>prakhar1989/docker-curriculum</strong> [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/docker-curriculum.svg?style=social&label=Star)](https://github.com/prakhar1989/docker-curriculum)
 
 :dolphin: A comprehensive tutorial on getting started with Docker!
+
+
+ </br><strong>probot/probot</strong> [![GitHub stars](https://img.shields.io/github/stars/probot/probot.svg?style=social&label=Star)](https://github.com/probot/probot)
+
+a trainable robot that responds to activity on GitHub
 
 
  </br><strong>qtile/qtile</strong> [![GitHub stars](https://img.shields.io/github/stars/qtile/qtile.svg?style=social&label=Star)](https://github.com/qtile/qtile)
@@ -997,7 +1187,7 @@ Simplified HTTP requests
 
  </br><strong>sindresorhus/refined-github</strong> [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/refined-github.svg?style=social&label=Star)](https://github.com/sindresorhus/refined-github)
 
-Chrome extension that simplifies the GitHub interface and adds useful features
+Browser extension that simplifies the GitHub interface and adds useful features
 
 
  </br><strong>sindresorhus/touch-bar-simulator</strong> [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/touch-bar-simulator.svg?style=social&label=Star)](https://github.com/sindresorhus/touch-bar-simulator)
@@ -1008,6 +1198,11 @@ Use the Touch Bar on any Mac
  </br><strong>sindresorhus/xo</strong> [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/xo.svg?style=social&label=Star)](https://github.com/sindresorhus/xo)
 
 ❤️ JavaScript happiness style linter
+
+
+ </br><strong>sony/nnabla</strong> [![GitHub stars](https://img.shields.io/github/stars/sony/nnabla.svg?style=social&label=Star)](https://github.com/sony/nnabla)
+
+NNabla - Neural Network Libraries NNabla is a deep learning framework that is intended to be used for research, development and production. We aim it running everywhere like desktop PCs, HPC clusters, embedded devices and production servers.
 
 
  </br><strong>souvik1997/TearsOS</strong> [![GitHub stars](https://img.shields.io/github/stars/souvik1997/TearsOS.svg?style=social&label=Star)](https://github.com/souvik1997/TearsOS)
@@ -1063,6 +1258,11 @@ A functional javascript workshop. No libraries required (i.e. no underscore), ju
 A smart and easy-to-use image masking and cutout SDK for mobile apps.
 
 
+ </br><strong>tlrobinson/evil.css</strong> [![GitHub stars](https://img.shields.io/github/stars/tlrobinson/evil.css.svg?style=social&label=Star)](https://github.com/tlrobinson/evil.css)
+
+Because CSS isn't evil enough already.
+
+
  </br><strong>tmux/tmux</strong> [![GitHub stars](https://img.shields.io/github/stars/tmux/tmux.svg?style=social&label=Star)](https://github.com/tmux/tmux)
 
 tmux source code
@@ -1096,6 +1296,16 @@ OAuth-enabled curl for the Twitter API
  </br><strong>txcsmad/f16-beginner-web</strong> [![GitHub stars](https://img.shields.io/github/stars/txcsmad/f16-beginner-web.svg?style=social&label=Star)](https://github.com/txcsmad/f16-beginner-web)
 
 MAD's web tutorials in fall 2016
+
+
+ </br><strong>typicode/json-server</strong> [![GitHub stars](https://img.shields.io/github/stars/typicode/json-server.svg?style=social&label=Star)](https://github.com/typicode/json-server)
+
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+
+ </br><strong>uber/deck.gl</strong> [![GitHub stars](https://img.shields.io/github/stars/uber/deck.gl.svg?style=social&label=Star)](https://github.com/uber/deck.gl)
+
+WebGL based visualization layers
 
 
  </br><strong>urianawu/MovieViewer</strong> [![GitHub stars](https://img.shields.io/github/stars/urianawu/MovieViewer.svg?style=social&label=Star)](https://github.com/urianawu/MovieViewer)
@@ -1154,6 +1364,11 @@ A progressive, incrementally-adoptable JavaScript framework for building UI on t
 
 
  </br><strong>wcrasta/SWA-Scraper</strong> [![GitHub stars](https://img.shields.io/github/stars/wcrasta/SWA-Scraper.svg?style=social&label=Star)](https://github.com/wcrasta/SWA-Scraper)
+
+
+ </br><strong>wekan/wekan</strong> [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan.svg?style=social&label=Star)](https://github.com/wekan/wekan)
+
+The open-source Trello-like kanban (built with Meteor)
 
 
  </br><strong>WhiteHouse/petitions</strong> [![GitHub stars](https://img.shields.io/github/stars/WhiteHouse/petitions.svg?style=social&label=Star)](https://github.com/WhiteHouse/petitions)

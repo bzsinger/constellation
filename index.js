@@ -16,7 +16,7 @@ user.listStarredRepos(function(err, _repos) {
      return 0;
    })
 
-   fs.writeFileSync('README.md', '# Stars \n' +
+   fs.writeFileSync('README.md', '# [Constellation](https://github.com/bzsinger/constellation) \n' +
         '## <em>A list of repos I\'ve starred</em>\n');
 
    repos.forEach(function(repo) {
